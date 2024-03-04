@@ -1,0 +1,113 @@
+Alfa 6
+Alfetta
+Alfasud
+Arna
+AR6
+AR8
+A15
+A19
+A38
+Brera
+F20
+Giuletta
+Giuletta SS
+Giulia
+Gran Sport
+GT
+GTA
+GTV
+GT 1300 Junior Z
+G1
+G2
+Matta
+Mille
+Mille Aerfer
+Mille AF
+MiTo
+Montreal
+P2
+P3
+RL
+RM
+Romeo
+Romeo A11
+Romeo A12
+Romeo F11
+Romeo F12
+Romeo 2
+Romeo 3
+RZ
+Spider
+Stelvio
+SZ
+Tipo A
+Tipo 512
+Tonale
+TZ
+TZ2
+4C
+4C Spider
+6C 1500
+6C 1750
+6C 2300
+6C 2500
+8C
+8C Competizione
+8C Spider
+8C 2300
+8C 2900
+12C
+15 HP
+16C Bimotore
+20 HP
+24 HP
+30 HP
+33
+33 Stradale
+40 A
+40 HP
+50
+60 HP
+75
+80A
+85A
+85AF
+85
+90
+110
+110A
+110AF
+140A
+140AF
+145
+146
+147
+150A
+155
+156
+158
+159
+164
+166
+350
+430
+430A
+450
+455
+500
+500A
+800
+800A
+800AF
+900
+900A
+900AF
+902A
+911AF
+950
+950A
+1000
+1750 GT Veloce
+1900
+2000
+2600
