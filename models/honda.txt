@@ -37,10 +37,12 @@ CBX 750
 CBX 1000
 CG 125
 Chaly
+City
 Civic
 Clarity
 CLR 125
 CM 125
+Concerto
 Crossroad
 CR-V
 CR-X
@@ -62,7 +64,9 @@ CX 650 Turbo
 CX 650
 Dax
 Domani
+e
 Elysion
+e:Ny1
 FCX Clarity
 Fit
 FMX
@@ -79,6 +83,7 @@ GL 1500 Goldwing
 GL 1800 Goldwing
 Gorilla
 Hornet
+HR-V
 Innova
 Insight
 Inspire
@@ -86,6 +91,7 @@ Integra
 Jazz
 Legend
 Life
+Logo
 Monkey
 Motocompo
 MSX
@@ -93,6 +99,8 @@ MTX 50
 MTX 80
 MTX 125
 N Box
+N360
+N600
 NC 700
 NC 750
 N-One
@@ -110,6 +118,8 @@ Pilot
 Prelude
 Prologue
 PX
+Quint
+Quintet
 RC112
 RC113
 RC115
@@ -121,7 +131,7 @@ RC213V
 Ridgeline
 RS
 RVF750 RC45
-S
+Shuttle
 Stepwgn
 Stream
 ST 1100 Pan-European
@@ -176,6 +186,8 @@ XR 650 V
 XR 750 V
 ZB
 Zest
+ZR-V
+Z600
 2RC143
 2RC146
 2RC149
